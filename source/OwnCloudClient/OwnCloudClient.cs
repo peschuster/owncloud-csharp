@@ -10,10 +10,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Web;
 using System.Xml.Serialization;
-using OwnCloudClient.Model;
+using OwnCloud.Model;
 using WebDav;
 
-namespace OwnCloudClient
+namespace OwnCloud
 {
     public class OwnCloudClient
     {

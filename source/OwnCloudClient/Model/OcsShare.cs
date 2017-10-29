@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Xml.Serialization;
 
-namespace OwnCloudClient.Model
+namespace OwnCloud.Model
 {
     public class OcsShare
     {

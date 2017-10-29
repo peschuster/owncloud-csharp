@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OwnCloudClient.Model
+namespace OwnCloud.Model
 {
     [Flags]
     public enum OcsSharePermission

@@ -1,4 +1,4 @@
-﻿namespace OwnCloudClient.Model
+﻿namespace OwnCloud.Model
 {
     public enum OcsShareType
     {

@@ -7,7 +7,7 @@
     <ProjectGuid>{E8F41B63-B943-4968-AEAC-18FE9080859F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OwnCloudClient</RootNamespace>
+    <RootNamespace>OwnCloud</RootNamespace>
     <AssemblyName>OwnCloudClient</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

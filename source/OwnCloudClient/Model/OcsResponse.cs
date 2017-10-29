@@ -1,6 +1,6 @@
 ﻿using System.Xml.Serialization;
 
-namespace OwnCloudClient.Model
+namespace OwnCloud.Model
 {
     [XmlRoot("ocs")]
     public class OcsResponse<TElement> : OcsBaseResponse
